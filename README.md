@@ -8,7 +8,9 @@
 ## Results
 ### When refactoring our code, first a plan was created via steps in the comments to facilitate borrowing and repurposing code from a previous macro. THis enabled me to keep track of the flow of the logic. A timer was also setup to time our code and check to see if it did in fact run more efficiently. The results for each year using the refactored code are as follows:
 
+<img width="284" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/18335464/207713951-fdd2f61b-ef51-4c7f-bb03-8b20df700e15.png">
 
+<img width="276" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/18335464/207714021-96f51eb0-8a0c-49aa-baae-76da2b2f9fee.png">
 
 ## Summary
 ### When refactoring code we can see many advantages. Making the language more efficient can create an easier to understand flow of logic which is easier to build on when we need to make changes. This will also allow the program to run much faster freeing up memory and computing power while saving time. Disadvantges on the other hand include introducing new bugs into the code as well as breaking an already working script. In this case the benefits outweight the cons.
